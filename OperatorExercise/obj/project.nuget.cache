@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCl9KbNKDF3QjqEHhs2pgGUxIUibCCyyHndqKWcBWIGbY9cWbmGi2CQK25R/c8QHXP3O12BCaqXNWffWU5PRFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
